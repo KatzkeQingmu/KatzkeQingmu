@@ -1,6 +1,6 @@
-### Hi there 👋   
+一个呆逼！！！  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KatzkeQingmu)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KatzkeQingmu&show_icons=true&theme=radical)
+
 
 
 
