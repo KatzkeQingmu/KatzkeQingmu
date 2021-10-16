@@ -1,13 +1,11 @@
 ### Hi there 👋   
+[![Anurag 的 GitHub 统计](https://github-readme-stats.vercel.app/api ?username=KatzkeQingmu )](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KatzkeQingmu&count_private=true)
+![Anurag 的 GitHub 统计](https://github-readme-stats.vercel.app/api ?username=KatzkeQingmu&show_icons=true )
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KatzkeQingmu&show_icons=true&theme=radical)
 
 
 
-
-[![Anurag 的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=KatzkeQingmu)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag 的 GitHub 统计数据](https://github-readme-stats.vercel.app/api ?username=anuraghazra&count_private=true )
-![Anurag 的 GitHub 统计](https://github-readme-stats.vercel.app/api ?username=anuraghazra&show_icons=true )
-![Anurag 的 GitHub 统计](https://github-readme-stats.vercel.app/api ?username=anuraghazra&show_icons=true&theme=radical )
-[！[自述卡]（https://github-readme-stats.vercel.app/api/pin/ ？用户名= anuraghazra及论坛= github上的自述-统计数据）]（https://github. com/anuraghazra/github-自述统计）
 <!--
 **KatzkeQingmu/KatzkeQingmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
